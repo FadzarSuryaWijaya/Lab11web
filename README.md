@@ -2,7 +2,6 @@
 
 ## PROFIL
 
-|  |  |
 | -------- | --- |
 | **Nama** | Fadzar Surya Wijaya |
 | **Kelas** | TI.23.A.5 |
